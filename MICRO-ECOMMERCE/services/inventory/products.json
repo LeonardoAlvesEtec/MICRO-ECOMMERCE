@@ -1,0 +1,39 @@
+[
+    {
+        "id": 1,
+        "name": "nome do livro",
+        "author": "autor do livro",
+        "quantity": 10,
+        "price": 21.12,
+        "photo": "/img/imagemdolivro.png"
+    },
+
+    {
+        "id": 2,
+        "name": "nome do livro",
+        "author": "autor do livro",
+        "quantity": 10,
+        "price": 21.12,
+        "photo": "/img/imagemdolivro.png"
+    },
+
+    {
+        "id": 3,
+        "name": "nome do livro",
+        "author": "autor do livro",
+        "quantity": 10,
+        "price": 21.12,
+        "photo": "/img/imagemdolivro.png"
+    },
+
+    {
+        "id":4,
+        "name": "nome do livro",
+        "author": "autor do livro",
+        "quantity": 10,
+        "price": 21.12,
+        "photo": "/img/imagemdolivro.png"
+    },
+]
+git config user.name "LeonardoAlvesEtec"
+git config user.email leonardo.silva1795@etec.sp.gov.br
